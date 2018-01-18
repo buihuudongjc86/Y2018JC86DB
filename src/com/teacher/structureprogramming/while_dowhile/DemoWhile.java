@@ -1,4 +1,4 @@
-package com.teacher.structureprogramming;
+package com.teacher.structureprogramming.while_dowhile;
 
 public class DemoWhile {
 

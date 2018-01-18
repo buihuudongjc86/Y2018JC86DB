@@ -1,4 +1,4 @@
-package com.teacher.structureprogramming;
+package com.teacher.structureprogramming.if_else;
 
 public class DemoIfNested {
 

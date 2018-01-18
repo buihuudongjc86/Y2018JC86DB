@@ -1,4 +1,4 @@
-package com.teacher.structureprogramming;
+package com.teacher.structureprogramming.switch_case;
 
 import java.util.Scanner;
 
